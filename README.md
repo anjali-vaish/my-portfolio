@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Personal Portfolio React + Vite
 
 This is my personal portfolio, designed to showcase my skills and projects. It features an interactive 3D experience, leveraging cutting-edge technologies for a sleek, modern design.
 
@@ -35,4 +35,4 @@ This is my personal portfolio, designed to showcase my skills and projects. It f
 
 ## Demo
 
-You can check out a live demo of the portfolio [here](your-live-demo-link).
+You can check out a live demo of the portfolio [here](https://my-portfolio-pi-taupe-41.vercel.app/).
